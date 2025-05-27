@@ -13,11 +13,11 @@ function Home() {
       Devs Full Stack
       </p>
         <Link to="/sobre" className='btn btn-red'>
-        Saiba mais sobre nós!
+        Saiba algo mais sobre nós!
         </Link>
     </div>
     <figure>
-      <img className='img-home' src="/img1.png" alt="Imagem da home" />
+      <img className='img-home' src="public/img1.svg" alt="Imagem da home" />
     </figure>
     </section>
       <Footer />
